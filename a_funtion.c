@@ -10,5 +10,3 @@
 21:57  modify a_funton_1 V1.2
 
 21:58  modify a_funton_1 V1.3
-
-21:58  modify a_funton_1 V1.4
