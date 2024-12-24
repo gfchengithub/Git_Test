@@ -1,0 +1,8 @@
+[SHORT]
+V-SOC_L=~
+V-SOC_LL=~
+V-SOC_H=~
+[LONG]
+V-SOC_L=~
+V-SOC_LL=~
+V-SOC_H=~

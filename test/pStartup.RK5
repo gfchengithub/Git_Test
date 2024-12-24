@@ -1,0 +1,22 @@
+[:__MODULE_PSTARTUP] 
+
+{@BEGIN:pStartup}
+[:__LABEL6] 
+
+<IF:CCBLEND>
+526 530 1 [JA:__LABEL9] 
+285 135 2 1 1 234 
+[:__LABEL9] 
+
+{pStartup: (4): }
+508 0 285 158 3 238 52 52 
+
+{pStartup: (7): }
+508 0 526 [:__LABEL8] 
+
+<ENDIF>
+234 
+[:__LABEL7] 
+
+{@END:pStartup}
+[:__MODULE_END_PSTARTUP] 

@@ -1,0 +1,10 @@
+[SHORT]
+V-TMP=~
+V-LOPART=~
+V-HIPART=~
+V-Q=~
+[LONG]
+V-TMP=~
+V-LOPART=~
+V-HIPART=~
+V-Q=~

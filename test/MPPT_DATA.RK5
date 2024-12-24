@@ -1,0 +1,18 @@
+#debug
+
+{MPPT_DATA: (2): //37}
+508 37 526 :\14 
+#L:14
+#V(w)[0,0]{}:13=VOLTAGE_SET
+#V(w)[0,0]{}:2=PV_Volt
+#V(w)[0,0]{}:9=CV_Volt
+#V(w)[0,0]{}:10=CF_Volt
+#V(w)[0,0]{}:6=Fault_Code
+#V(w)[0,0]{}:11=Avail_Charge_Curr
+#V(w)[0,0]{}:7=Battery_Type
+#V(w)[0,0]{}:8=Battery_Voltage_level
+#V(w)[0,0]{}:1=ChargeMode
+#V(w)[0,0]{}:3=Battery_Volt
+#V(w)[0,0]{}:12=System_Command
+#V(w)[0,0]{}:4=Charge_Current
+#V(w)[0,0]{}:5=Charge_Power

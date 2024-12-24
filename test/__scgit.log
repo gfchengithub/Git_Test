@@ -1,0 +1,1068 @@
+2024/12/19-14:37 - OP_CLONEFROMREPO
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+Remote Shortname: gf.chen
+Current branch: master
+Remote URL: https://code.navatics.dev/pems/pems_powercruise/power_cruise_96v.git
+--> OK
+2024/12/19-14:43 - OP_CHECKREPO lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:43 - DoesLocalBranchExist lg2_local_branch_exists
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+Branch: master
+--> OK
+2024/12/19-14:43 - GetCurrentBranch
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:43 - OP_CHECKREPO lg2_check_remote_repo
+RemoteShortName gf.chen
+--> OK
+2024/12/19-14:43 - OP_CHECKREPO lg2_fetch
+RemoteShortName gf.chen
+--> OK
+2024/12/19-14:43 - CheckProject
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:43 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:43 - Get files statuses
+--> OK
+2024/12/19-14:43 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:43 - Get files statuses
+--> OK
+2024/12/19-14:43 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:43 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:43 - Get files statuses
+--> OK
+2024/12/19-14:43 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:43 - ItemAction K5SC_GETHISTORY
+File: ios.xml
+--> OK
+2024/12/19-14:43 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:43 - Get files statuses
+--> OK
+2024/12/19-14:43 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:44 - OP_CHECKREPO lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:44 - DoesLocalBranchExist lg2_local_branch_exists
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+Branch: master
+--> OK
+2024/12/19-14:44 - GetCurrentBranch
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:44 - OP_CHECKREPO lg2_check_remote_repo
+RemoteShortName gf.chen
+--> OK
+2024/12/19-14:44 - OP_CHECKREPO lg2_fetch
+RemoteShortName gf.chen
+--> OK
+2024/12/19-14:44 - CheckProject
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:44 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:44 - Get files statuses
+--> OK
+2024/12/19-14:44 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:44 - Get files statuses
+--> OK
+2024/12/19-14:44 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:44 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:44 - Get files statuses
+--> OK
+2024/12/19-14:44 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:51 - OP_CHECKREPO lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:51 - DoesLocalBranchExist lg2_local_branch_exists
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+Branch: master
+--> OK
+2024/12/19-14:51 - GetCurrentBranch
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:51 - OP_CHECKREPO lg2_check_remote_repo
+RemoteShortName gf.chen
+--> OK
+2024/12/19-14:51 - OP_CHECKREPO lg2_fetch
+RemoteShortName gf.chen
+--> OK
+2024/12/19-14:51 - CheckProject
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:51 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:51 - Get files statuses
+--> OK
+2024/12/19-14:51 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:51 - Get files statuses
+--> OK
+2024/12/19-14:51 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:51 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:51 - Get files statuses
+--> OK
+2024/12/19-14:51 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:51 - ItemAction K5SC_GETHISTORY
+File: project.xml
+--> OK
+2024/12/19-14:52 - Get version of file
+File: project.xml
+Local: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\\SC\project.xml
+Version 256cbf11b51b174e5f44fb7eeb665797831d4b33
+--> OK
+2024/12/19-14:52 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:52 - Get files statuses
+--> OK
+2024/12/19-14:52 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:52 - Get files statuses
+--> OK
+2024/12/19-14:52 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:52 - OP_CHECKREPO lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:52 - DoesLocalBranchExist lg2_local_branch_exists
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+Branch: master
+--> OK
+2024/12/19-14:52 - GetCurrentBranch
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:52 - OP_CHECKREPO lg2_check_remote_repo
+RemoteShortName gf.chen
+--> OK
+2024/12/19-14:52 - OP_CHECKREPO lg2_fetch
+RemoteShortName gf.chen
+--> OK
+2024/12/19-14:52 - CheckProject
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:52 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:52 - Get files statuses
+--> OK
+2024/12/19-14:52 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:52 - Get files statuses
+--> OK
+2024/12/19-14:52 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:52 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:52 - Get files statuses
+--> OK
+2024/12/19-14:52 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:52 - Get files statuses
+--> OK
+2024/12/19-14:52 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:52 - ItemAction K5SC_GETHISTORY
+File: project.xml
+--> OK
+2024/12/19-14:52 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-14:52 - Get files statuses
+--> OK
+2024/12/19-14:52 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:11 - OP_CHECKREPO lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:11 - DoesLocalBranchExist lg2_local_branch_exists
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+Branch: master
+--> OK
+2024/12/19-15:11 - GetCurrentBranch
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:11 - OP_CHECKREPO lg2_check_remote_repo
+RemoteShortName gf.chen
+--> OK
+2024/12/19-15:11 - OP_CHECKREPO lg2_fetch
+RemoteShortName gf.chen
+--> OK
+2024/12/19-15:11 - CheckProject
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:11 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:11 - Get files statuses
+--> OK
+2024/12/19-15:11 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:11 - Get files statuses
+--> OK
+2024/12/19-15:11 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:11 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:11 - Get files statuses
+--> OK
+2024/12/19-15:11 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:11 - lg2_stage_all
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:11 - MakeCommiAndPush
+Comment: 123
+--> OK
+2024/12/19-15:11 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:11 - Get files statuses
+--> OK
+2024/12/19-15:11 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:11 - Get files statuses
+--> OK
+2024/12/19-15:11 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:11 - OP_CHECKREPO lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:11 - DoesLocalBranchExist lg2_local_branch_exists
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+Branch: master
+--> OK
+2024/12/19-15:11 - GetCurrentBranch
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:11 - OP_CHECKREPO lg2_check_remote_repo
+RemoteShortName gf.chen
+--> OK
+2024/12/19-15:11 - OP_CHECKREPO lg2_fetch
+RemoteShortName gf.chen
+--> OK
+2024/12/19-15:11 - CheckProject
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:11 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:11 - Get files statuses
+--> OK
+2024/12/19-15:11 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:11 - Get files statuses
+--> OK
+2024/12/19-15:11 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:11 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:11 - Get files statuses
+--> OK
+2024/12/19-15:11 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:11 - Get files statuses
+--> OK
+2024/12/19-15:11 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:12 - ItemAction K5SC_CHECKIN
+Nb files: 1
+--> OK
+2024/12/19-15:12 - MakeCommiAndPush
+Comment: 13
+--> OK
+2024/12/19-15:12 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:12 - Get files statuses
+--> OK
+2024/12/19-15:12 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:12 - OP_CHECKREPO lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:12 - DoesLocalBranchExist lg2_local_branch_exists
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+Branch: master
+--> OK
+2024/12/19-15:12 - GetCurrentBranch
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:12 - OP_CHECKREPO lg2_check_remote_repo
+RemoteShortName gf.chen
+--> OK
+2024/12/19-15:12 - OP_CHECKREPO lg2_fetch
+RemoteShortName gf.chen
+--> OK
+2024/12/19-15:12 - CheckProject
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:12 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:12 - Get files statuses
+--> OK
+2024/12/19-15:12 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:12 - Get files statuses
+--> OK
+2024/12/19-15:12 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:12 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:12 - Get files statuses
+--> OK
+2024/12/19-15:12 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:12 - Get files statuses
+--> OK
+2024/12/19-15:12 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:12 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:12 - Get files statuses
+--> OK
+2024/12/19-15:12 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:13 - OP_PULL
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+Remote Shortname: gf.chen
+Current branch: master
+--> OK
+2024/12/19-15:13 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:13 - Get files statuses
+--> OK
+2024/12/19-15:13 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:13 - Get files statuses
+--> OK
+2024/12/19-15:13 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:13 - ItemAction K5SC_GETHISTORY
+File: pou_ESSA_X_ECU.xml
+--> OK
+2024/12/19-15:13 - Get version of file
+File: pou_ESSA_X_ECU.xml
+Local: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\\SC\pou_ESSA_X_ECU.xml
+Version 256cbf11b51b174e5f44fb7eeb665797831d4b33
+--> OK
+2024/12/19-15:14 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:14 - Get files statuses
+--> OK
+2024/12/19-15:14 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:14 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:14 - Get files statuses
+--> OK
+2024/12/19-15:14 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:14 - Get files statuses
+--> OK
+2024/12/19-15:14 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:14 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:14 - Get files statuses
+--> OK
+2024/12/19-15:14 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/19-15:14 - Get files statuses
+--> OK
+2024/12/19-15:14 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\SC
+--> OK
+2024/12/20-10:3 - OP_CHECKREPO lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:3 - DoesLocalBranchExist lg2_local_branch_exists
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+Branch: master
+--> OK
+2024/12/20-10:3 - GetCurrentBranch
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:3 - OP_CHECKREPO lg2_check_remote_repo
+RemoteShortName gf.chen
+--> OK
+2024/12/20-10:3 - OP_CHECKREPO lg2_fetch
+RemoteShortName gf.chen
+--> OK
+2024/12/20-10:3 - CheckProject
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:3 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:3 - Get files statuses
+--> OK
+2024/12/20-10:3 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:3 - Get files statuses
+--> OK
+2024/12/20-10:3 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:3 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:3 - Get files statuses
+--> OK
+2024/12/20-10:3 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:3 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:3 - Get files statuses
+--> OK
+2024/12/20-10:3 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:3 - OP_CHECKREPO lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:3 - DoesLocalBranchExist lg2_local_branch_exists
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+Branch: master
+--> OK
+2024/12/20-10:3 - GetCurrentBranch
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:3 - OP_CHECKREPO lg2_check_remote_repo
+RemoteShortName gf.chen
+--> OK
+2024/12/20-10:3 - OP_CHECKREPO lg2_fetch
+RemoteShortName gf.chen
+--> OK
+2024/12/20-10:3 - CheckProject
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:3 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:3 - Get files statuses
+--> OK
+2024/12/20-10:3 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:3 - Get files statuses
+--> OK
+2024/12/20-10:3 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:3 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:3 - Get files statuses
+--> OK
+2024/12/20-10:3 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:3 - Get files statuses
+--> OK
+2024/12/20-10:3 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:4 - OP_CHECKREPO lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:4 - DoesLocalBranchExist lg2_local_branch_exists
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+Branch: master
+--> OK
+2024/12/20-10:4 - GetCurrentBranch
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:4 - OP_CHECKREPO lg2_check_remote_repo
+RemoteShortName gf.chen
+--> OK
+2024/12/20-10:4 - OP_CHECKREPO lg2_fetch
+RemoteShortName gf.chen
+--> OK
+2024/12/20-10:4 - CheckProject
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:4 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:4 - Get files statuses
+--> OK
+2024/12/20-10:4 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:4 - Get files statuses
+--> OK
+2024/12/20-10:4 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:4 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:4 - Get files statuses
+--> OK
+2024/12/20-10:4 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:4 - ItemAction K5SC_GETHISTORY
+File: pou_ALARM_MANAGER.xml
+--> OK
+2024/12/20-10:4 - Get version of file
+File: pou_ALARM_MANAGER.xml
+Local: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\\SC\pou_ALARM_MANAGER.xml
+Version 256cbf11b51b174e5f44fb7eeb665797831d4b33
+--> OK
+2024/12/20-10:4 - Get version of file
+File: pou_ALARM_MANAGER.xml
+Local: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\\SC\pou_ALARM_MANAGER.xml
+Version 256cbf11b51b174e5f44fb7eeb665797831d4b33
+--> OK
+2024/12/20-10:4 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:4 - Get files statuses
+--> OK
+2024/12/20-10:4 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:32 - OP_CHECKREPO lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:32 - DoesLocalBranchExist lg2_local_branch_exists
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+Branch: master
+--> OK
+2024/12/20-10:32 - GetCurrentBranch
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:32 - OP_CHECKREPO lg2_check_remote_repo
+RemoteShortName gf.chen
+--> OK
+2024/12/20-10:32 - OP_CHECKREPO lg2_fetch
+RemoteShortName gf.chen
+--> OK
+2024/12/20-10:32 - CheckProject
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:32 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:32 - Get files statuses
+--> OK
+2024/12/20-10:32 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:32 - Get files statuses
+--> OK
+2024/12/20-10:32 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:32 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/20-10:32 - Get files statuses
+--> OK
+2024/12/20-10:32 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:17 - OP_CHECKREPO lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:17 - DoesLocalBranchExist lg2_local_branch_exists
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+Branch: master
+--> OK
+2024/12/24-16:17 - GetCurrentBranch
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:17 - OP_CHECKREPO lg2_check_remote_repo
+RemoteShortName gf.chen
+--> OK
+2024/12/24-16:17 - OP_CHECKREPO lg2_fetch
+RemoteShortName gf.chen
+--> OK
+2024/12/24-16:17 - CheckProject
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:17 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:17 - Get files statuses
+--> OK
+2024/12/24-16:17 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:17 - Get files statuses
+--> OK
+2024/12/24-16:17 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:17 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:17 - Get files statuses
+--> OK
+2024/12/24-16:17 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:20 - ItemAction K5SC_GETHISTORY
+File: project.xml
+--> OK
+2024/12/24-16:20 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:20 - Get files statuses
+--> OK
+2024/12/24-16:20 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:20 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:20 - Get files statuses
+--> OK
+2024/12/24-16:20 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:20 - Get files statuses
+--> OK
+2024/12/24-16:20 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:20 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:20 - Get files statuses
+--> OK
+2024/12/24-16:20 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:20 - Get files statuses
+--> OK
+2024/12/24-16:20 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:20 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:20 - Get files statuses
+--> OK
+2024/12/24-16:20 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:20 - ItemAction K5SC_CHECKIN
+Nb files: 1
+--> OK
+2024/12/24-16:20 - MakeCommiAndPush
+Comment: test
+--> OK
+2024/12/24-16:20 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:20 - Get files statuses
+--> OK
+2024/12/24-16:20 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:23 - ItemAction K5SC_CHECKIN
+Nb files: 1
+--> OK
+2024/12/24-16:23 - MakeCommiAndPush
+Comment: check in Project
+--> OK
+2024/12/24-16:23 - OP_PUSH
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+Remote Shortname: gf.chen
+Current branch: master
+--> OK
+2024/12/24-16:23 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:23 - Get files statuses
+--> OK
+2024/12/24-16:23 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:23 - ItemAction K5SC_GETHISTORY
+File: project.xml
+--> OK
+2024/12/24-16:25 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:25 - Get files statuses
+--> OK
+2024/12/24-16:25 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:25 - OP_PULL
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+Remote Shortname: gf.chen
+Current branch: master
+--> OK
+2024/12/24-16:25 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:25 - Get files statuses
+--> OK
+2024/12/24-16:25 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:25 - Get files statuses
+--> OK
+2024/12/24-16:25 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:25 - OP_CHECKREPO lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:25 - DoesLocalBranchExist lg2_local_branch_exists
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+Branch: master
+--> OK
+2024/12/24-16:25 - GetCurrentBranch
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:25 - OP_CHECKREPO lg2_check_remote_repo
+RemoteShortName gf.chen
+--> OK
+2024/12/24-16:25 - OP_CHECKREPO lg2_fetch
+RemoteShortName gf.chen
+--> OK
+2024/12/24-16:25 - CheckProject
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:25 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:25 - Get files statuses
+--> OK
+2024/12/24-16:25 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:25 - Get files statuses
+--> OK
+2024/12/24-16:25 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:25 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:25 - Get files statuses
+--> OK
+2024/12/24-16:25 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:25 - Get files statuses
+--> OK
+2024/12/24-16:25 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:25 - ItemAction K5SC_GETHISTORY
+File: project.xml
+--> OK
+2024/12/24-16:25 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:25 - Get files statuses
+--> OK
+2024/12/24-16:25 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:38 - OP_CHECKREPO lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:38 - DoesLocalBranchExist lg2_local_branch_exists
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+Branch: master
+--> OK
+2024/12/24-16:38 - GetCurrentBranch
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:38 - OP_CHECKREPO lg2_check_remote_repo
+RemoteShortName gf.chen
+--> OK
+2024/12/24-16:38 - OP_CHECKREPO lg2_fetch
+RemoteShortName gf.chen
+--> OK
+2024/12/24-16:38 - CheckProject
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:38 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:38 - Get files statuses
+--> OK
+2024/12/24-16:38 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:38 - Get files statuses
+--> OK
+2024/12/24-16:38 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:38 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:38 - Get files statuses
+--> OK
+2024/12/24-16:38 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:38 - ItemAction K5SC_GETHISTORY
+File: project.xml
+--> OK
+2024/12/24-16:38 - Get version of file
+File: project.xml
+Local: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\\SC\project.xml
+Version 256cbf11b51b174e5f44fb7eeb665797831d4b33
+--> OK
+2024/12/24-16:38 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:38 - Get files statuses
+--> OK
+2024/12/24-16:38 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:38 - Get files statuses
+--> OK
+2024/12/24-16:38 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:39 - OP_CHECKREPO lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:39 - DoesLocalBranchExist lg2_local_branch_exists
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+Branch: master
+--> OK
+2024/12/24-16:39 - GetCurrentBranch
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:39 - OP_CHECKREPO lg2_check_remote_repo
+RemoteShortName gf.chen
+--> OK
+2024/12/24-16:39 - OP_CHECKREPO lg2_fetch
+RemoteShortName gf.chen
+--> OK
+2024/12/24-16:39 - CheckProject
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:39 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:39 - Get files statuses
+--> OK
+2024/12/24-16:39 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:39 - Get files statuses
+--> OK
+2024/12/24-16:39 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:39 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:39 - Get files statuses
+--> OK
+2024/12/24-16:39 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:39 - OP_PULL
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+Remote Shortname: gf.chen
+Current branch: master
+--> OK
+2024/12/24-16:39 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:39 - Get files statuses
+--> OK
+2024/12/24-16:39 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:39 - Get files statuses
+--> OK
+2024/12/24-16:39 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:50 - OP_CHECKREPO lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:50 - DoesLocalBranchExist lg2_local_branch_exists
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+Branch: master
+--> OK
+2024/12/24-16:50 - GetCurrentBranch
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:50 - OP_CHECKREPO lg2_check_remote_repo
+RemoteShortName gf.chen
+--> OK
+2024/12/24-16:50 - OP_CHECKREPO lg2_fetch
+RemoteShortName gf.chen
+--> OK
+2024/12/24-16:50 - CheckProject
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:50 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:50 - Get files statuses
+--> OK
+2024/12/24-16:50 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:50 - Get files statuses
+--> OK
+2024/12/24-16:50 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:50 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:50 - Get files statuses
+--> OK
+2024/12/24-16:50 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:50 - ItemAction K5SC_ADD
+Nb files: 1
+--> OK
+2024/12/24-16:50 - MakeCommiAndPush
+Comment: forget
+--> OK
+2024/12/24-16:50 - OP_PUSH
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+Remote Shortname: gf.chen
+Current branch: master
+--> OK
+2024/12/24-16:50 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:50 - Get files statuses
+--> OK
+2024/12/24-16:50 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:51 - OP_PUSH
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+Remote Shortname: gf.chen
+Current branch: master
+--> OK
+2024/12/24-16:51 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:51 - Get files statuses
+--> OK
+2024/12/24-16:51 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:51 - Get files statuses
+--> OK
+2024/12/24-16:51 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:51 - ItemAction K5SC_GETHISTORY
+File: pou_Main.xml
+--> OK
+2024/12/24-16:51 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:51 - Get files statuses
+--> OK
+2024/12/24-16:51 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:52 - ItemAction K5SC_CHECKIN
+Nb files: 1
+--> OK
+2024/12/24-16:52 - MakeCommiAndPush
+Comment: aaaa
+--> OK
+2024/12/24-16:52 - OP_PUSH
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+Remote Shortname: gf.chen
+Current branch: master
+--> OK
+2024/12/24-16:52 - Directory lg2_check_local_repository
+Repo: E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK
+2024/12/24-16:52 - Get files statuses
+--> OK
+2024/12/24-16:52 - DiffList
+Repo E:\Downloads\STRATON_TCP_RTU_DEMO\STRATON_TCP_RTU_DEMO\testgit\test\test\SC
+--> OK

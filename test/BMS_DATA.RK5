@@ -1,0 +1,32 @@
+#debug
+
+{BMS_DATA: (2): //32}
+508 32 526 :\28 
+#L:28
+#V(W)[0,0]{}:25=Battery_discharge_power
+#V(w)[0,0]{}:20=FAULT_3_LEVEL_1
+#V(y)[0,0]{}:16=STATUS_RELAY
+#V(R)[0,0]{}:10=Maximum_charging_voltage
+#V(R)[0,0]{}:2=BMS_CURRENT
+#V(W)[0,0]{}:22=Battery_charging_power
+#V(y)[0,0]{}:17=Heart_beat
+#V(w)[0,0]{}:19=FAULT_2_LEVEL
+#V(R)[0,0]{}:1=BMS_VOLTAGE
+#V(w)[0,0]{}:18=FAULT_1_LEVEL
+#V(R)[0,0]{}:4=SOH
+#V(Y)[0,0]{}:13=Minimum_cell_temperature
+#V(Y)[0,0]{}:12=Maximum_cell_temperature
+#V(R)[0,0]{}:15=Minimum_cell_voltage
+#V(R)[0,0]{}:14=Maximum_cell_voltage
+#V(R)[0,0]{}:21=Cumulative_battery_running_time
+#V(R)[0,0]{}:7=Maximum_charging_current
+#V(R)[0,0]{}:6=System_surplus_capacity
+#V(R)[0,0]{}:5=total_system_capacity
+#V(R)[0,0]{}:8=Maximum_discharging_current
+#V(W)[0,0]{}:24=Nominal_capacity_of_battery_pack
+#V(W)[0,0]{}:23=Remaining_battery_life
+#V(w)[0,0]{}:27=FAULT_3_LEVEL_2
+#V(y)[0,0]{}:26=serial_parrll_status
+#V(R)[0,0]{}:11=Minimum_discharge_voltage
+#V(R)[0,0]{}:9=Maximum_discharging_power
+#V(R)[0,0]{}:3=SOC

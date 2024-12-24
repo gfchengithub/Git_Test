@@ -1,0 +1,22 @@
+#debug
+
+{CTL_WORD: (2): //33}
+508 33 526 :\18 
+#L:18
+#V(B)[0,0]{}:16=EM_STOP
+#V(B)[0,0]{}:14=STOP_OUT
+#V(B)[0,0]{}:4=RUNNING
+#V(B)[0,0]{}:5=AUTO
+#V(T)[0,0]{}:12=PLUS_TIME
+#V(B)[0,0]{}:11=stop_failure
+#V(B)[0,0]{}:6=hmi_start
+#V(B)[0,0]{}:2=shutdown_fault
+#V(B)[0,0]{}:1=communation_error
+#V(B)[0,0]{}:17=RESET
+#V(B)[0,0]{}:3=ready
+#V(B)[0,0]{}:9=auto_stop
+#V(w)[0,0]{}:15=STATUS
+#V(B)[0,0]{}:10=start_failure
+#V(B)[0,0]{}:8=auto_start
+#V(B)[0,0]{}:13=START_OUT
+#V(B)[0,0]{}:7=hmi_stop

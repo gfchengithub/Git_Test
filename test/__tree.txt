@@ -1,0 +1,17 @@
+- pStartup
+- pShutDown
+- Main
+   - DIO
+   - ACDC
+   - BMS
+   - ALARM_MANAGER
+   - MAIN_MODE
+   - SYS_START
+   - HEART_BEAT_SYS
+   - SYS_STOP
+   - CTL_BATTERY_AUTO_CHARGE
+   - DCAC
+   - VERSION_MANAGER
+   - MPPT_MANAGER
+   - ALARM_IO
+   - ESSA_X_ECU

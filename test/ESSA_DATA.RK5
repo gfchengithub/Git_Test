@@ -1,0 +1,17 @@
+#debug
+
+{ESSA_DATA: (2): //35}
+508 35 526 :\13 
+#L:13
+#V(w)[0,0]{}:9=POD_POWER
+#V(y)[0,0]{}:11=ESSA_HEART_BEAT
+#V(R)[0,0]{}:1=POWER_LIMIT
+#V(w)[0,0]{}:10=POD_SPEED
+#V(y)[0,0]{}:4=SYS_MODE
+#V(y)[0,0]{}:2=DPU_WORK_STATUS
+#V(y)[0,0]{}:7=ESSA_WORK_STATUS
+#V(y)[0,0]{}:8=POD_LEVEL
+#V(R)[0,0]{}:12=CTL_BAT_VOLT12v
+#V(y)[0,0]{}:5=EM_STATUS
+#V(y)[0,0]{}:3=DPU_FAULT_STATUS
+#V(y)[0,0]{}:6=DPU_HEART_BEAT

@@ -1,0 +1,13 @@
+#debug
+
+{DCAC_DATA: (2): //34}
+508 34 526 :\9 
+#L:9
+#V(y)[0,0]{}:5=TEMPERATURE
+#V(y)[0,0]{}:7=HEART_BEAT
+#V(y)[0,0]{}:4=FAULT_CODE
+#V(R)[0,0]{}:1=INPUT_VOLTAGE
+#V(R)[0,0]{}:2=OUTPUT_VOLTAGE
+#V(y)[0,0]{}:6=STATUS
+#V(y)[0,0]{}:8=CTL_CMD
+#V(R)[0,0]{}:3=OUTPUT_CURRENT

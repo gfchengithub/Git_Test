@@ -1,0 +1,62 @@
+Compiler V12.0.200.82
+载入应用程序名称...
+CTL_FB1
+WATCHDOG
+ACDC_DATA_FB
+BMS_DATA
+CTL_WORD
+DCAC_DATA
+ESSA_DATA
+HMI_TO_DPU
+MPPT_DATA
+ROUTER
+SOC_SETTING
+未侦测到错误
+
+载入应用程序名称...
+Warning: Possible naming conflicts found:
+Inst_TON - multiple declaration as
+   Global variable
+   Local variable of CTL_FB1
+Inst_TON1 - multiple declaration as
+   Global variable
+   Local variable of CTL_FB1
+Inst_TON2 - multiple declaration as
+   Global variable
+   Local variable of CTL_FB1
+Inst_TON3 - multiple declaration as
+   Global variable
+   Local variable of CTL_FB1
+
+Demo Mode: run time execution limited in time!
+Main
+pStartup
+pShutDown
+pOnDivZero
+pOnBadIndex
+BMS_CTL
+HEART_BEAT_SYS
+ALARM_MANAGER
+MPPT_MANAGER
+SYS_START
+SYS_STOP
+CTL_BATTERY_AUTO_CHARGE
+MAIN_MODE
+BMS
+DCAC
+ESSA_X_ECU
+DIO
+ALARM_IO
+ACDC
+VERSION_MANAGER
+建置应用程序资料...
+< Call stack depth = 1 >
+< 316 BOOL/SINT; 45 INT; 108 DINT/REAL; 44 LINT/LREAL; 27 TIME; 1 STRING; 0 WSTRING  - CRC = 0077dc52 >
+< 161 I/Os >
+ Profiled variables:
+   DIO: 6
+< 30 POUs - 3 programs, 23 sub-programs, 4 UDFBs >
+重新设定程序码...
+< Code CRC=048bd624 - File CRC=ef3d83ff - Retain CRC=4edf14b9 - Size=13240 >
+未侦测到错误
+已关闭 On Line Change

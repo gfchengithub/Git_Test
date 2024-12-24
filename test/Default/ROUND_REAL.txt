@@ -1,0 +1,8 @@
+[SHORT]
+V-RMOD=~
+V-IN=~
+V-Q=~
+[LONG]
+V-RMOD=~
+V-IN=~
+V-Q=~

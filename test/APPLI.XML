@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<Appli Expand="YES">
+   <Folder Expand="YES" Name="Exception programs">
+      <Program Name="pOnBadIndex"/>
+      <Program Name="pOnDivZero"/>
+      <Program Name="pShutDown"/>
+      <Program Name="pStartup"/>
+   </Folder>
+   <Folder Expand="YES" Name="Programs">
+      <Folder Expand="YES" Name="DEVICE_MANAGER">
+         <Program Name="ACDC"/>
+         <Program Name="ALARM_IO"/>
+         <Program Name="BMS"/>
+         <Program Name="DCAC"/>
+         <Program Name="DIO"/>
+         <Program Name="ESSA_X_ECU"/>
+      </Folder>
+      <Folder Expand="YES" Name="SYS_MANAGER">
+         <Program Name="ALARM_MANAGER"/>
+         <Program Name="BMS_CTL"/>
+         <Program Name="CTL_BATTERY_AUTO_CHARGE"/>
+         <Program Name="HEART_BEAT_SYS"/>
+         <Program Name="MAIN_MODE"/>
+         <Program Name="MPPT_MANAGER"/>
+         <Program Name="SYS_START"/>
+         <Program Name="SYS_STOP"/>
+         <Program Name="VERSION_MANAGER"/>
+      </Folder>
+      <Folder Expand="YES" Name="WATCH_DOG">
+         <Program Name="CTL_FB1"/>
+         <Program Name="WATCHDOG"/>
+      </Folder>
+      <Program Name="Main"/>
+   </Folder>
+   <Folder Name="Watch (for debugging)"/>
+   <File Name="Initial values.RCP"/>
+   <FieldBus/>
+   <Binding/>
+   <Profiles/>
+   <GlobalDef/>
+   <Vars/>
+   <Types Expand="YES"/>
+</Appli>
